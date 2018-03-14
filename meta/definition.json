@@ -1,413 +1,411 @@
-
 {
-  "definition": {
-    "learning-objectives": {
+    "definition": {
+        "learning-objectives": {},
+        "tags": {
+            "Reading": {
+                "tags": {}
+            },
+            "Training": {
+                "tags": {}
+            },
+            "Assessment": {
+                "tags": {}
+            },
+            "Practice": {
+                "tags": {}
+            }
+        }
     },
-    "tags": {
-      "Reading": {
-        "tags": {}
-      },
-      "Training": {
-        "tags": {}
-      },
-      "Assessment": {
-        "tags": {}
-      },
-      "Practice": {
-        "tags": {}
-      }
+    "items": {
+        "default": [
+            {
+                "name": "Unit 1 - Formula Basics",
+                "item-type": "folder",
+                "item-code": "Unit_1_-_Formula_Basics",
+                "sub-type": "unit",
+                "items": [
+                    {
+                        "name": "Chapter 2 (Pages #152 to #157)",
+                        "item-type": "resource",
+                        "item-code": "Unit_1_-_Formula_Basics/Chapter_2_(Pages_#152_to_#157)",
+                        "resource": "RE_1_1",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use Relative Cell References in a Formula",
+                        "item-type": "resource",
+                        "resource": "RE_1_2",
+                        "item-code": "Unit_1_-_Formula_Basics/Use_Relative_Cell_References_in_a_Formula",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use an Absolute Cell Reference in a Formula",
+                        "item-type": "resource",
+                        "resource": "RE_1_3",
+                        "item-code": "Unit_1_-_Formula_Basics/Use_an_Absolute_Cell_Reference_in_a_Formula",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use a Mixed Cell Reference in a Formula",
+                        "item-type": "resource",
+                        "resource": "RE_1_4",
+                        "item-code": "Unit_1_-_Formula_Basics/Use_a_Mixed_Cell_Reference_in_a_Formula",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Hands on Exercise 1",
+                        "item-type": "resource",
+                        "resource": "RE_1_5",
+                        "item-code": "Unit_1_-_Formula_Basics/Hands_on_Exercise_1",
+                        "tracking": true
+                    }
+                ]
+            },
+            {
+                "name": "Unit 2 - Function Basics",
+                "item-type": "folder",
+                "item-code": "Unit_2_-_Function_Basics",
+                "sub-type": "unit",
+                "items": [
+                    {
+                        "name": "Chapter 2 (Pages #161 to #166)",
+                        "item-type": "resource",
+                        "item-code": "Unit_2_-_Function_Basics/Chapter_2_(Pages_#161_to_#166)",
+                        "resource": "RE_2_1",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the SUM Function",
+                        "item-type": "resource",
+                        "resource": "RE_2_2",
+                        "item-code": "Unit_2_-_Function_Basics/Use_the_SUM_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the AVERAGE Function",
+                        "item-type": "resource",
+                        "resource": "RE_2_3",
+                        "item-code": "Unit_2_-_Function_Basics/Use_the_AVERAGE_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the MEDIAN Function",
+                        "item-type": "resource",
+                        "resource": "RE_2_4",
+                        "item-code": "Unit_2_-_Function_Basics/Use_the_MEDIAN_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the MIN, MAX and COUNT Functions",
+                        "item-type": "resource",
+                        "resource": "RE_2_5",
+                        "item-code": "Unit_2_-_Function_Basics/Use_the_MIN_MAX_AND_COUNT_Functions",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Hands on Exercise 2",
+                        "item-type": "resource",
+                        "resource": "RE_2_6",
+                        "item-code": "Unit_2_-_Function_Basics/Hands_on_Exercise_2",
+                        "tracking": true
+                    }
+                ]
+            },
+            {
+                "name": "Unit 3 - Logical, Lookup and Functional Functions",
+                "item-type": "folder",
+                "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions",
+                "sub-type": "unit",
+                "items": [
+                    {
+                        "name": "Chapter 2 (Pages #174 to #181)",
+                        "item-type": "resource",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Chapter_2_(Pages_#174_to_#181)",
+                        "resource": "RE_3_1",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the IF Function",
+                        "item-type": "resource",
+                        "resource": "RE_3_2",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_IF_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the VLOOKUP Function",
+                        "item-type": "resource",
+                        "resource": "RE_3_3",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_VLOOKUP_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Use the PMT Function",
+                        "item-type": "resource",
+                        "resource": "RE_3_4",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_PMT_Function",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Hands on Exercise 3",
+                        "item-type": "resource",
+                        "resource": "RE_3_5",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Hands_on_Exercise_3",
+                        "tracking": true
+                    }
+                ]
+            },
+            {
+                "name": "Exercises",
+                "item-type": "folder",
+                "item-code": "Exercises",
+                "sub-type": "unit",
+                "items": [
+                    {
+                        "name": "SIM5 Based Assessment",
+                        "item-type": "resource",
+                        "resource": "RE_4_1",
+                        "item-code": "Exercises/SIM5_Based_Assessment",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Grader Based Assessment - Metropolitan Zoo Gift Shop Weekly Payroll",
+                        "item-type": "resource",
+                        "resource": "RE_4_2",
+                        "item-code": "Exercises/Grader_Based_Assessment_-_Metropolitan_Zoo_Gift_Shop_Weekly_Payroll",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Grader Based Assessment - Mortgage Calculator",
+                        "item-type": "resource",
+                        "resource": "RE_4_3",
+                        "item-code": "Exercises/Grader_Based_Assessment_-Mortgage_Calculator",
+                        "tracking": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "schema": 1,
+        "thumbnaillarge": "cover.jpg",
+        "author": "John Doe",
+        "description": "Excel formulas and functions are the core of Microsoft Excel spreadsheet. When you increase your understanding of formulas and functions, you can build robust workbooks that perform a variety of calculations for quantitative analysis. Your ability to build sophisticated workbooks and to interpret the results increases your value to any organization.",
+        "thumbnailsmall": "cover.jpg",
+        "title": "Introduction to Excel Functions",
+        "code": "introductiontoexcelfunctions",
+        "producttype": "courseware"
+    },
+    "resources": {
+        "generic": {
+            "RE_1_1": {
+                "tags": [
+                    "Reading"
+                ],
+                "sub-type": "pdf",
+                "pdf": {
+                    "uri": ""
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_1_2": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa257a46db5532048fb4092"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_1_3": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa261b76db5532048fb4096"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_1_4": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa2622a6db5532048fb409a"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_1_5": {
+                "tags": [
+                    "Training"
+                ],
+                "sub-type": "sim5Training",
+                "sim5Training": {
+                    "uri": "5a9794c92e4fa60884637360"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_1": {
+                "tags": [
+                    "Reading"
+                ],
+                "sub-type": "pdf",
+                "pdf": {
+                    "uri": ""
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_2": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa262a26db5532048fb409e"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_3": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa263d56db5532048fb40a2"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_4": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa265346db5532048fb40a6"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_5": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa265a76db5532048fb40aa"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_2_6": {
+                "tags": [
+                    "Training"
+                ],
+                "sub-type": "sim5Training",
+                "sim5Training": {
+                    "uri": "5aa23d17dea25f02b466aebb"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_1": {
+                "tags": [
+                    "Reading"
+                ],
+                "sub-type": "pdf",
+                "pdf": {
+                    "uri": ""
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_2": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa2686a6db5532048fb40ae"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_3": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa268df6db5532048fb40b2"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_4": {
+                "tags": [
+                    "Practice"
+                ],
+                "sub-type": "sim5Practice",
+                "sim5Practice": {
+                    "uri": "5aa2692b6db5532048fb40b6"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_5": {
+                "tags": [
+                    "Training"
+                ],
+                "sub-type": "sim5Training",
+                "sim5Training": {
+                    "uri": "5aa23e40dea25f02b466aec6"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_4_1": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "sim5Assessment",
+                "sim5Assessment": {
+                    "uri": "5aa21ab49c3e4d000459d702"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_4_2": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "graderAssessment",
+                "graderAssessment": {
+                    "uri": "5aa21c269c3e4d000459d73a"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_4_3": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "graderAssessment",
+                "graderAssessment": {
+                    "uri": "5aa21dc19c3e4d000459d73d"
+                },
+                "description": "",
+                "learning-objectives": []
+            }
+        }
     }
-  },
-  "items": {
-    "default": [
-      {
-        "name": "Unit 1 - Formula Basics",
-        "item-type": "folder",
-        "item-code": "Unit_1_-_Formula_Basics",
-        "sub-type": "unit",
-        "items": [
-          {
-            "name": "Chapter 2 (Pages #152 to #157)",
-            "item-type": "resource",
-            "item-code": "Unit_1_-_Formula_Basics/Chapter_2_(Pages_#152_to_#157)",
-            "resource": "RE_1_1",
-            "tracking": true
-          },
-          {
-            "name": "Use Relative Cell References in a Formula",
-            "item-type": "resource",
-            "resource": "RE_1_2",
-            "item-code": "Unit_1_-_Formula_Basics/Use_Relative_Cell_References_in_a_Formula",
-            "tracking": true
-          },
-          {
-            "name": "Use an Absolute Cell Reference in a Formula",
-            "item-type": "resource",
-            "resource": "RE_1_3",
-            "item-code": "Unit_1_-_Formula_Basics/Use_an_Absolute_Cell_Reference_in_a_Formula",
-            "tracking": true
-          },
-          {
-            "name": "Use a Mixed Cell Reference in a Formula",
-            "item-type": "resource",
-            "resource": "RE_1_4",
-            "item-code": "Unit_1_-_Formula_Basics/Use_a_Mixed_Cell_Reference_in_a_Formula",
-            "tracking": true
-          },
-          {
-            "name": "Hands on Exercise 1",
-            "item-type": "resource",
-            "resource": "RE_1_5",
-            "item-code": "Unit_1_-_Formula_Basics/Hands_on_Exercise_1",
-            "tracking": true
-          }
-        ]
-      },
-      {
-        "name": "Unit 2 - Function Basics",
-        "item-type": "folder",
-        "item-code": "Unit_2_-_Function_Basics",
-        "sub-type": "unit",
-        "items": [
-          {
-            "name": "Chapter 2 (Pages #161 to #166)",
-            "item-type": "resource",
-            "item-code": "Unit_2_-_Function_Basics/Chapter_2_(Pages_#161_to_#166)",
-            "resource": "RE_2_1",
-            "tracking": true
-          },
-          {
-            "name": "Use the SUM Function",
-            "item-type": "resource",
-            "resource": "RE_2_2",
-            "item-code": "Unit_2_-_Function_Basics/Use_the_SUM_Function",
-            "tracking": true
-          },
-          {
-            "name": "Use the AVERAGE Function",
-            "item-type": "resource",
-            "resource": "RE_2_3",
-            "item-code": "Unit_2_-_Function_Basics/Use_the_AVERAGE_Function",
-            "tracking": true
-          },
-          {
-            "name": "Use the MEDIAN Function",
-            "item-type": "resource",
-            "resource": "RE_2_4",
-            "item-code": "Unit_2_-_Function_Basics/Use_the_MEDIAN_Function",
-            "tracking": true
-          },
-          {
-            "name": "Use the MIN, MAX and COUNT Functions",
-            "item-type": "resource",
-            "resource": "RE_2_5",
-            "item-code": "Unit_2_-_Function_Basics/Use_the_MIN_MAX_AND_COUNT_Functions",
-            "tracking": true
-          },
-          {
-            "name": "Hands on Exercise 2",
-            "item-type": "resource",
-            "resource": "RE_2_6",
-            "item-code": "Unit_2_-_Function_Basics/Hands_on_Exercise_2",
-            "tracking": true
-          }
-        ]
-      },
-      {
-        "name": "Unit 3 - Logical, Lookup and Functional Functions",
-        "item-type": "folder",
-        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions",
-        "sub-type": "unit",
-        "items": [
-          {
-            "name": "Chapter 2 (Pages #174 to #181)",
-            "item-type": "resource",
-            "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Chapter_2_(Pages_#174_to_#181)",
-            "resource": "RE_3_1",
-            "tracking": true
-          },
-          {
-            "name": "Use the IF Function",
-            "item-type": "resource",
-            "resource": "RE_3_2",
-            "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_IF_Function",
-            "tracking": true
-          },
-          {
-            "name": "Use the VLOOKUP Function",
-            "item-type": "resource",
-            "resource": "RE_3_3",
-            "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_VLOOKUP_Function",
-            "tracking": true
-          },
-          {
-            "name": "Use the PMT Function",
-            "item-type": "resource",
-            "resource": "RE_3_4",
-            "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Use_the_PMT_Function",
-            "tracking": true
-          },
-          {
-            "name": "Hands on Exercise 3",
-            "item-type": "resource",
-            "resource": "RE_3_5",
-            "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Hands_on_Exercise_3",
-            "tracking": true
-          }
-        ]
-      },
-      {
-        "name": "Exercises",
-        "item-type": "folder",
-        "item-code": "Exercises",
-        "sub-type": "unit",
-        "items": [
-          {
-            "name": "SIM5 Based Assessment",
-            "item-type": "resource",
-            "resource": "RE_4_1",
-            "item-code": "Exercises/SIM5_Based_Assessment",
-            "tracking": true
-          },
-          {
-            "name": "Grader Based Assessment - Metropolitan Zoo Gift Shop Weekly Payroll",
-            "item-type": "resource",
-            "resource": "RE_4_2",
-            "item-code": "Exercises/Grader_Based_Assessment_-_Metropolitan_Zoo_Gift_Shop_Weekly_Payroll",
-            "tracking": true
-          },
-          {
-            "name": "Grader Based Assessment - Mortgage Calculator",
-            "item-type": "resource",
-            "resource": "RE_4_3",
-            "item-code": "Exercises/Grader_Based_Assessment_-Mortgage_Calculator",
-            "tracking": true
-          }
-        ]
-      }
-    ]
-  },
-  "meta": {
-    "schema": 1,
-    "thumbnaillarge": "cover.jpg",
-    "author": "John Doe",
-    "description": "Excel formulas and functions are the core of Microsoft Excel spreadsheet. When you increase your understanding of formulas and functions, you can build robust workbooks that perform a variety of calculations for quantitative analysis. Your ability to build sophisticated workbooks and to interpret the results increases your value to any organization.",
-    "thumbnailsmall": "cover.jpg",
-    "title": "Introduction to Excel Functions",
-    "code": "introductiontoexcelfunctions",
-    "producttype": "courseware"
-  },
-  "resources": {
-    "generic": {
-      "RE_1_1": {
-        "tags": [
-          "Reading"
-        ],
-        "sub-type": "pdf",
-        "pdf": {
-          "uri": ""
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_1_2": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a964b71bd0cde28fcfefb11"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_1_3": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a964a83bd0cde28fcfefb0d"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_1_4": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a9649cbbd0cde28fcfefb09"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_1_5": {
-        "tags": [
-          "Training"
-        ],
-        "sub-type": "sim5Training",
-        "sim5Training": {
-          "uri": "5a9648b1bd0cde28fcfefafe"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_1": {
-        "tags": [
-          "Reading"
-        ],
-        "sub-type": "pdf",
-        "pdf": {
-          "uri": ""
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_2": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a9651bdbd0cde28fcfefb15"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_3": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a965263bd0cde28fcfefb19"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_4": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a96531ebd0cde28fcfefb1d"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_5": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a9653b2bd0cde28fcfefb21"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_2_6": {
-        "tags": [
-          "Training"
-        ],
-        "sub-type": "sim5Training",
-        "sim5Training": {
-          "uri": "5a9654e2bd0cde28fcfefb25"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_3_1": {
-        "tags": [
-          "Reading"
-        ],
-        "sub-type": "pdf",
-        "pdf": {
-          "uri": ""
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_3_2": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a9656ffbd0cde28fcfefb35"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_3_3": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a96576ebd0cde28fcfefb39"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_3_4": {
-        "tags": [
-          "Practice"
-        ],
-        "sub-type": "sim5Practice",
-        "sim5Practice": {
-          "uri": "5a9657d8bd0cde28fcfefb3d"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_3_5": {
-        "tags": [
-          "Training"
-        ],
-        "sub-type": "sim5Training",
-        "sim5Training": {
-          "uri": "5a965846bd0cde28fcfefb41"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_4_1": {
-        "tags": [
-          "Assessment"
-        ],
-        "sub-type": "sim5Assessment",
-        "sim5Assessment": {
-          "uri": "5a9659e0bd0cde28fcfefb4c"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_4_2": {
-        "tags": [
-          "Assessment"
-        ],
-        "sub-type": "graderAssessment",
-        "graderAssessment": {
-          "uri": "5a965d50353c0816407db3bd"
-        },
-        "description": "",
-        "learning-objectives": []
-      },
-      "RE_4_3": {
-        "tags": [
-          "Assessment"
-        ],
-        "sub-type": "graderAssessment",
-        "graderAssessment": {
-          "uri": "5a965d50353c0816407db3bd"
-        },
-        "description": "",
-        "learning-objectives": []
-      }
-    }
-  }
 }
