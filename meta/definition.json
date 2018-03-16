@@ -168,17 +168,17 @@
                         "tracking": true
                     },
                     {
-                        "name": "Grader Based Assessment - Metropolitan Zoo Gift Shop Weekly Payroll",
+                        "name": "Metropolitan Zoo Gift Shop Weekly Payroll",
                         "item-type": "resource",
                         "resource": "RE_4_2",
-                        "item-code": "Exercises/Grader_Based_Assessment_-_Metropolitan_Zoo_Gift_Shop_Weekly_Payroll",
+                        "item-code": "Exercises/Metropolitan_Zoo_Gift_Shop_Weekly_Payroll",
                         "tracking": true
                     },
                     {
-                        "name": "Grader Based Assessment - Mortgage Calculator",
+                        "name": "Mortgage Calculator",
                         "item-type": "resource",
                         "resource": "RE_4_3",
-                        "item-code": "Exercises/Grader_Based_Assessment_-Mortgage_Calculator",
+                        "item-code": "Exercises/Mortgage_Calculator",
                         "tracking": true
                     }
                 ]
