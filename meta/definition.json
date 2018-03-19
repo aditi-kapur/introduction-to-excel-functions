@@ -187,13 +187,16 @@
     },
     "meta": {
         "schema": 1,
-        "thumbnaillarge": "cover.jpg",
+        "thumbnaillarge": "cover.png",
         "author": "John Doe",
         "description": "Excel formulas and functions are the core of Microsoft Excel spreadsheet. When you increase your understanding of formulas and functions, you can build robust workbooks that perform a variety of calculations for quantitative analysis. Your ability to build sophisticated workbooks and to interpret the results increases your value to any organization.",
-        "thumbnailsmall": "cover.jpg",
+        "thumbnailsmall": "cover.png",
         "title": "Introduction to Excel Functions",
         "code": "introductiontoexcelfunctions",
-        "producttype": "courseware"
+        "producttype": "courseware",
+        "textbookISBN": "9852147845",
+        "series": "MyLab IT - Exploring",
+        "application": "Excel"
     },
     "resources": {
         "generic": {
