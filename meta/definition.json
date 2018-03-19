@@ -194,9 +194,12 @@
         "title": "Introduction to Excel Functions",
         "code": "introductiontoexcelfunctions",
         "producttype": "courseware",
-        "textbookISBN": "9852147845",
-        "series": "MyLab IT - Exploring",
-        "application": "Excel"
+        "model": {
+            "type": "ittoolscourse",
+            "textbookISBN": "9852147845",
+            "series": "MyLab IT - Exploring",
+            "application": "Excel"
+        }
     },
     "resources": {
         "generic": {
