@@ -58,6 +58,13 @@
                         "resource": "RE_1_5",
                         "item-code": "Unit_1_-_Formula_Basics/Hands_on_Exercise_1",
                         "tracking": true
+                    },
+                    {
+                        "name": "Multiple Choice - Quiz 1",
+                        "item-type": "resource",
+                        "resource": "RE_1_6",
+                        "item-code": "Unit_1_-_Formula_Basics/Multiple_Choice_-_Quiz_1",
+                        "tracking": true
                     }
                 ]
             },
@@ -254,6 +261,17 @@
                 "sub-type": "sim5Training",
                 "sim5Training": {
                     "uri": "5a9794c92e4fa60884637360"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_1_6": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "sim5OBQ",
+                "sim5OBQ": {
+                    "uri": "5aa7703b43317d1bec98e6df"
                 },
                 "description": "",
                 "learning-objectives": []
