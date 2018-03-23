@@ -207,9 +207,9 @@
                 "tags": [
                     "Reading"
                 ],
-                "sub-type": "pdf",
-                "pdf": {
-                    "uri": ""
+                "sub-type": "eText",
+                "eText": {
+                    "uri": "5aa622a667ea28e26cce26fd"
                 },
                 "description": "",
                 "learning-objectives": []
@@ -262,9 +262,9 @@
                 "tags": [
                     "Reading"
                 ],
-                "sub-type": "pdf",
-                "pdf": {
-                    "uri": ""
+                "sub-type": "eText",
+                "eText": {
+                    "uri": "5aa622a667ea28e26cce26fd"
                 },
                 "description": "",
                 "learning-objectives": []
@@ -328,9 +328,9 @@
                 "tags": [
                     "Reading"
                 ],
-                "sub-type": "pdf",
-                "pdf": {
-                    "uri": ""
+                "sub-type": "eText",
+                "eText": {
+                    "uri": "5aa622a667ea28e26cce26fd"
                 },
                 "description": "",
                 "learning-objectives": []
