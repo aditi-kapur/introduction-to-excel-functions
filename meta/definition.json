@@ -199,14 +199,15 @@
         "description": "Excel formulas and functions are the core of Microsoft Excel spreadsheet. When you increase your understanding of formulas and functions, you can build robust workbooks that perform a variety of calculations for quantitative analysis. Your ability to build sophisticated workbooks and to interpret the results increases your value to any organization.",
         "thumbnailsmall": "cover.png",
         "title": "Introduction to Excel Functions",
-        "code": "BFVGS5214M",
+        "code": "introductiontoexcelfunctions",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
             "textbookISBN": "9852147845",
             "textbook": "Exploring Microsoft Office Excel 2016 Comprehensive",
             "series": "Exploring",
-            "application": "Excel"
+            "application": "Excel",
+            "courseId": "BFVGS5214M"
         }
     },
     "resources": {
