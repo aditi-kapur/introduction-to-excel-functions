@@ -115,6 +115,13 @@
                         "resource": "RE_2_6",
                         "item-code": "Unit_2_-_Function_Basics/Hands_on_Exercise_2",
                         "tracking": true
+                    },
+                    {
+                        "name": "Multiple Choice - Quiz 2",
+                        "item-type": "resource",
+                        "resource": "RE_2_7",
+                        "item-code": "Unit_2_-_Function_Basics/Multiple_Choice_-_Quiz_2",
+                        "tracking": true
                     }
                 ]
             },
@@ -157,6 +164,13 @@
                         "item-type": "resource",
                         "resource": "RE_3_5",
                         "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Hands_on_Exercise_3",
+                        "tracking": true
+                    },
+                    {
+                        "name": "Multiple Choice - Quiz 3",
+                        "item-type": "resource",
+                        "resource": "RE_3_6",
+                        "item-code": "Unit_3_-_Logical,_Lookup_and_Functional_Functions/Multiple_Choice_-_Quiz_3",
                         "tracking": true
                     }
                 ]
@@ -344,6 +358,17 @@
                 "description": "",
                 "learning-objectives": []
             },
+            "RE_2_7": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "sim5OBQ",
+                "sim5OBQ": {
+                    "uri": "5aba3cc57399a62308f70f63"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
             "RE_3_1": {
                 "tags": [
                     "Reading"
@@ -395,6 +420,17 @@
                 "sub-type": "sim5Training",
                 "sim5Training": {
                     "uri": "5aa23e40dea25f02b466aec6"
+                },
+                "description": "",
+                "learning-objectives": []
+            },
+            "RE_3_6": {
+                "tags": [
+                    "Assessment"
+                ],
+                "sub-type": "sim5OBQ",
+                "sim5OBQ": {
+                    "uri": "5aba3e287399a62308f70f69"
                 },
                 "description": "",
                 "learning-objectives": []
