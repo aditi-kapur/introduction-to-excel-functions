@@ -182,10 +182,10 @@
                 "sub-type": "unit",
                 "items": [
                     {
-                        "name": "SIM5 Based Assessment",
+                        "name": "Hands On Exercises",
                         "item-type": "resource",
                         "resource": "RE_4_1",
-                        "item-code": "Exercises/SIM5_Based_Assessment",
+                        "item-code": "Exercises/Hands_On_Exercises",
                         "tracking": true
                     },
                     {
